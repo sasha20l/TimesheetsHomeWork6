@@ -1,7 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-
-namespace EmployeeService.Dats
+﻿namespace EmployeeService.Dats
 {
     public class EmployeeServiceDbContext : DbContext
     {
